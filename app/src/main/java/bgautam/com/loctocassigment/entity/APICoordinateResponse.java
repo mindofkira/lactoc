@@ -1,4 +1,4 @@
-package bgautam.com.loctocassigment.network;
+package bgautam.com.loctocassigment.entity;
 
 import com.google.gson.annotations.SerializedName;
 
@@ -19,7 +19,7 @@ public class APICoordinateResponse implements Serializable {
 
     }
 
-    public APICoordinateResponse (String longitude,String latitude) {
+    public APICoordinateResponse(String longitude, String latitude) {
         this.latitude = latitude;
         this.longitude = longitude;
     }

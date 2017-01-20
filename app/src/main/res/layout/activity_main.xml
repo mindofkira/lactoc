@@ -10,10 +10,10 @@
     tools:context="bgautam.com.loctocassigment.MainActivity">
 
     <Button
+        android:id="@+id/get_distance_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/main_activity_button_get_distance"
-        android:id="@+id/get_distance_button"
+        android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true" />
+        android:text="@string/main_activity_button_get_distance" />
 </RelativeLayout>

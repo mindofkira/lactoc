@@ -1,4 +1,4 @@
-package bgautam.com.loctocassigment.network;
+package bgautam.com.loctocassigment.entity;
 
 import com.google.gson.annotations.SerializedName;
 
