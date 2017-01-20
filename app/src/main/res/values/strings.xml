@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocToc Assigment</string>
+    <string name="main_activity_button_get_distance">Get Distance</string>
+
+</resources>
